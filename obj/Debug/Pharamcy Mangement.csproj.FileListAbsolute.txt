@@ -1,0 +1,24 @@
+F:\Work\Pharamcy Mangement\Pharamcy Mangement\bin\Debug\Pharamcy Mangement.exe.config
+F:\Work\Pharamcy Mangement\Pharamcy Mangement\bin\Debug\Pharamcy Mangement.exe
+F:\Work\Pharamcy Mangement\Pharamcy Mangement\bin\Debug\Pharamcy Mangement.pdb
+F:\Work\Pharamcy Mangement\Pharamcy Mangement\bin\Debug\Guna.UI2.dll
+F:\Work\Pharamcy Mangement\Pharamcy Mangement\obj\Debug\Pharamcy Mangement.csprojAssemblyReference.cache
+F:\Work\Pharamcy Mangement\Pharamcy Mangement\obj\Debug\Pharamcy_Mangement.AdminstartorUC.UC_AddMedicine.resources
+F:\Work\Pharamcy Mangement\Pharamcy Mangement\obj\Debug\Pharamcy_Mangement.AdminstartorUC.UC_AddUser.resources
+F:\Work\Pharamcy Mangement\Pharamcy Mangement\obj\Debug\Pharamcy_Mangement.AdminstartorUC.UC_Dachbord.resources
+F:\Work\Pharamcy Mangement\Pharamcy Mangement\obj\Debug\Pharamcy_Mangement.AdminstartorUC.UC_Sellmedicine.resources
+F:\Work\Pharamcy Mangement\Pharamcy Mangement\obj\Debug\Pharamcy_Mangement.AdminstartorUC.UC_Updateuser.resources
+F:\Work\Pharamcy Mangement\Pharamcy Mangement\obj\Debug\Pharamcy_Mangement.AdminstartorUC.UC_UpdateMedicine.resources
+F:\Work\Pharamcy Mangement\Pharamcy Mangement\obj\Debug\Pharamcy_Mangement.AdminstartorUC.UC_Validmedicine.resources
+F:\Work\Pharamcy Mangement\Pharamcy Mangement\obj\Debug\Pharamcy_Mangement.AdminstartorUC.UC_Viewuser.resources
+F:\Work\Pharamcy Mangement\Pharamcy Mangement\obj\Debug\Pharamcy_Mangement.AdminstartorUC.UC_ViewMedicine.resources
+F:\Work\Pharamcy Mangement\Pharamcy Mangement\obj\Debug\Pharamcy_Mangement.Adminstrator.resources
+F:\Work\Pharamcy Mangement\Pharamcy Mangement\obj\Debug\Pharamcy_Mangement.Pharmacist.resources
+F:\Work\Pharamcy Mangement\Pharamcy Mangement\obj\Debug\Pharamcy_Mangement.Properties.Resources.resources
+F:\Work\Pharamcy Mangement\Pharamcy Mangement\obj\Debug\Pharamcy Mangement.csproj.GenerateResource.cache
+F:\Work\Pharamcy Mangement\Pharamcy Mangement\obj\Debug\Pharamcy Mangement.csproj.CoreCompileInputs.cache
+F:\Work\Pharamcy Mangement\Pharamcy Mangement\obj\Debug\Pharamcy Mangement.csproj.CopyComplete
+F:\Work\Pharamcy Mangement\Pharamcy Mangement\obj\Debug\Pharamcy Mangement.exe
+F:\Work\Pharamcy Mangement\Pharamcy Mangement\obj\Debug\Pharamcy Mangement.pdb
+F:\Work\Pharamcy Mangement\Pharamcy Mangement\obj\Debug\Pharamcy_Mangement.AdminstartorUC.UC_Suppler.resources
+F:\Work\Pharamcy Mangement\Pharamcy Mangement\obj\Debug\Pharamcy_Mangement.Sign.resources
